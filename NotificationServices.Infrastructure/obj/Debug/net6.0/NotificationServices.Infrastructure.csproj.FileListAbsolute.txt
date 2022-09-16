@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\bin\Debug\net6.0\NotificationServices.Infrastructure.deps.json
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\bin\Debug\net6.0\NotificationServices.Infrastructure.dll
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\bin\Debug\net6.0\NotificationServices.Infrastructure.pdb
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\bin\Debug\net6.0\NotificationServices.Domain.dll
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\bin\Debug\net6.0\NotificationServicesAPI.Core.dll
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\bin\Debug\net6.0\NotificationServicesAPI.Core.pdb
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\bin\Debug\net6.0\NotificationServices.Domain.pdb
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\obj\Debug\net6.0\NotificationServices.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\obj\Debug\net6.0\NotificationServices.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\obj\Debug\net6.0\NotificationServices.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\obj\Debug\net6.0\NotificationServices.Infrastructure.AssemblyInfo.cs
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\obj\Debug\net6.0\NotificationServices.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\obj\Debug\net6.0\NotificationServices.Infrastructure.csproj.CopyComplete
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\obj\Debug\net6.0\NotificationServices.Infrastructure.dll
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\obj\Debug\net6.0\refint\NotificationServices.Infrastructure.dll
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\obj\Debug\net6.0\NotificationServices.Infrastructure.pdb
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Infrastructure\obj\Debug\net6.0\ref\NotificationServices.Infrastructure.dll

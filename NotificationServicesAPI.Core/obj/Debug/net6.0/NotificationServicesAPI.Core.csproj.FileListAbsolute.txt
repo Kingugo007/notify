@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\bin\Debug\net6.0\NotificationServicesAPI.Core.deps.json
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\bin\Debug\net6.0\NotificationServicesAPI.Core.dll
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\bin\Debug\net6.0\NotificationServicesAPI.Core.pdb
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\bin\Debug\net6.0\NotificationServices.Domain.dll
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\bin\Debug\net6.0\NotificationServices.Domain.pdb
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\obj\Debug\net6.0\NotificationServicesAPI.Core.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\obj\Debug\net6.0\NotificationServicesAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\obj\Debug\net6.0\NotificationServicesAPI.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\obj\Debug\net6.0\NotificationServicesAPI.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\obj\Debug\net6.0\NotificationServicesAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\obj\Debug\net6.0\NotificationServicesAPI.Core.csproj.CopyComplete
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\obj\Debug\net6.0\NotificationServicesAPI.Core.dll
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\obj\Debug\net6.0\refint\NotificationServicesAPI.Core.dll
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\obj\Debug\net6.0\NotificationServicesAPI.Core.pdb
+C:\Users\hp\source\repos\NotificationServices\NotificationServicesAPI.Core\obj\Debug\net6.0\ref\NotificationServicesAPI.Core.dll

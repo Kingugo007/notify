@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o4WU9R/p2QQboUi+yBG6CZ6v5UzLR+4813j9B9gjOPU=",
+  "Source": "NotificationServices.API",
+  "BasePath": "_content/NotificationServices.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

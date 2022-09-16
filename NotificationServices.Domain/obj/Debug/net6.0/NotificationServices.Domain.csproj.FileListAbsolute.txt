@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Domain\bin\Debug\net6.0\NotificationServices.Domain.deps.json
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Domain\bin\Debug\net6.0\NotificationServices.Domain.dll
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Domain\bin\Debug\net6.0\NotificationServices.Domain.pdb
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Domain\obj\Debug\net6.0\NotificationServices.Domain.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Domain\obj\Debug\net6.0\NotificationServices.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Domain\obj\Debug\net6.0\NotificationServices.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Domain\obj\Debug\net6.0\NotificationServices.Domain.AssemblyInfo.cs
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Domain\obj\Debug\net6.0\NotificationServices.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Domain\obj\Debug\net6.0\NotificationServices.Domain.dll
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Domain\obj\Debug\net6.0\refint\NotificationServices.Domain.dll
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Domain\obj\Debug\net6.0\NotificationServices.Domain.pdb
+C:\Users\hp\source\repos\NotificationServices\NotificationServices.Domain\obj\Debug\net6.0\ref\NotificationServices.Domain.dll
